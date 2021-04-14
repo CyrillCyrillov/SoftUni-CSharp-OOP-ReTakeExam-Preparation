@@ -1,0 +1,9 @@
+c:\Users\Kiril\OOP_CSharp\ReTake_Preparation\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+c:\Users\Kiril\OOP_CSharp\ReTake_Preparation\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+c:\Users\Kiril\OOP_CSharp\ReTake_Preparation\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+c:\Users\Kiril\OOP_CSharp\ReTake_Preparation\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+c:\Users\Kiril\OOP_CSharp\ReTake_Preparation\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+c:\Users\Kiril\OOP_CSharp\ReTake_Preparation\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+c:\Users\Kiril\OOP_CSharp\ReTake_Preparation\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+c:\Users\Kiril\OOP_CSharp\ReTake_Preparation\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+c:\Users\Kiril\OOP_CSharp\ReTake_Preparation\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
